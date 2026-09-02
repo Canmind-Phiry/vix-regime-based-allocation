@@ -106,6 +106,8 @@ The complete analysis is available in:
 
 `VIX_Regime_Based_Allocation.ipynb`
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Canmind-Phiry/vix-regime-based-allocation/blob/main/VIX_Regime_Based_Allocation.ipynb)
+
 
 ## Data
 
