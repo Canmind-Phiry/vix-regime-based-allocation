@@ -106,6 +106,17 @@ The complete analysis is available in:
 
 `VIX_Regime_Based_Allocation.ipynb`
 
+
+## Data
+
+The analysis uses daily market data for SPY, GLD, TLT and the VIX.
+
+The data was obtained from Yahoo Finance and covers the period from November 2004 to August 2026.
+
+The dataset was used for educational and research purposes as part of the stochastic modelling project.
+
+For reproducibility, the notebook is structured around a local `DATA.csv` input file rather than distributing the downloaded dataset with the repository.
+
 ## Tools
 
 Python · pandas · NumPy · matplotlib · scikit-learn · hmmlearn · Jupyter
