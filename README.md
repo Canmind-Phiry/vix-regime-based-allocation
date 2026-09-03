@@ -90,6 +90,10 @@ The regime-based strategy produced the following historical performance in the a
 | Equal Weight | 7.67% | 9.81% | 0.78 | -23.99% |
 | Buy & Hold SPY | 9.15% | 18.89% | 0.48 | -59.58% |
 
+### Cumulative Performance
+
+![Cumulative Performance](figures/cumulative_performance.png)
+
 The HMM identified persistent changes in volatility conditions and captured major periods of market stress, including the 2008 financial crisis and the 2020 COVID-19 market shock.
 
 ## Key Takeaway
