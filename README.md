@@ -37,7 +37,7 @@ The dataset contains approximately 20 years of market observations.
 
 ### Correlation Matrix
 
-![Correlation Matrix](./figures/correlation_matrix.png)
+![Correlation Matrix](figures/correlation_matrix.png)
 
 ### 2. Markov Chain Regime Detection
 
