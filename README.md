@@ -33,7 +33,7 @@ The strategy is evaluated through historical backtesting and compared with an eq
 
 The analysis uses daily observations of the VIX, SPY, GLD and TLT.
 
-The dataset contains approximately 20 years of market observations.
+The dataset contains over 20 years of daily market observations.
 
 ### Correlation Matrix
 
@@ -133,11 +133,11 @@ The data was obtained from Yahoo Finance and covers the period from November 200
 
 The dataset was used for educational and research purposes as part of the stochastic modelling project.
 
-For reproducibility, the notebook is structured around a local `DATA.csv` input file rather than distributing the downloaded dataset with the repository.
+For reproducibility, the notebook can use a local `DATA.csv` file when available. Otherwise, it retrieves the required market data from Yahoo Finance at runtime.
 
 ## Tools
 
-Python · pandas · NumPy · matplotlib · scikit-learn · hmmlearn · Jupyter
+Python · pandas · NumPy · matplotlib · scikit-learn · hmmlearn · yfinance · Jupyter
 
 ## Disclaimer
 
