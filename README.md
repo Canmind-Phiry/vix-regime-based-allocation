@@ -80,6 +80,10 @@ Performance is assessed using:
 - Maximum drawdown
 - Cumulative returns
 
+### Mean Returns by Regime
+
+![Mean Returns by Regime](figures/mean_returns_by_regime.png)
+
 ## Results
 
 The regime-based strategy produced the following historical performance in the analysis:
