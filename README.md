@@ -35,6 +35,10 @@ The analysis uses daily observations of the VIX, SPY, GLD and TLT.
 
 The dataset contains approximately 20 years of market observations.
 
+### Correlation Matrix
+
+![Correlation Matrix](figures/correlation_matrix.png)
+
 ### 2. Markov Chain Regime Detection
 
 Daily changes in the VIX are classified into low, medium and high volatility states using quantile-based thresholds.
@@ -99,6 +103,10 @@ The regime-based strategy produced the following historical performance in the a
 ![Cumulative Performance](figures/cumulative_performance.png)
 
 The HMM identified persistent changes in volatility conditions and captured major periods of market stress, including the 2008 financial crisis and the 2020 COVID-19 market shock.
+
+### Drawdown Comparison
+
+![Drawdown Comparison](figures/drawdown_comparison.png)
 
 ## Key Takeaway
 
